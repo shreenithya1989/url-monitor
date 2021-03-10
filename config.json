@@ -1,0 +1,15 @@
+{
+  "urls": [
+    {
+      "url": "https://app.jinzio.com"
+    },
+    {
+      "url": "https://www.googleasd.com",
+      "containsText": "delectus aut autem"
+    },
+    {
+      "url": "https://www.github.com",
+      "containsText": "delectus aut autem"
+    }
+  ]
+}
