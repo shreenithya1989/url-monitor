@@ -1,15 +1,13 @@
 {
+  "testInterval": 3,
   "urls": [
     {
-      "url": "https://app.jinzio.com"
-    },
-    {
-      "url": "https://www.googleasd.com",
-      "containsText": "delectus aut autem"
+      "url": "https://app.jinzio.com",
+      "containsText": "Log in / Sign up"
     },
     {
       "url": "https://www.github.com",
-      "containsText": "delectus aut autem"
+      "containsText": "Testing text"
     }
   ]
 }
